@@ -1,0 +1,268 @@
+{
+  "summary": {
+    "n_users": 92108,
+    "n_items": 270170,
+    "n_ratings": 1031190,
+    "matrix_density_percent": 0.004144,
+    "avg_ratings_per_user": 11.19544447822122,
+    "avg_ratings_per_item": 3.8168190398637893,
+    "top_items_by_count": [
+      {
+        "isbn": "0971880107",
+        "title": "Wild Animus",
+        "author": "Rich Shapero",
+        "ratings_count": 2502
+      },
+      {
+        "isbn": "0316666343",
+        "title": "The Lovely Bones: A Novel",
+        "author": "Alice Sebold",
+        "ratings_count": 1295
+      },
+      {
+        "isbn": "0385504209",
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "ratings_count": 883
+      },
+      {
+        "isbn": "0060928336",
+        "title": "Divine Secrets of the Ya-Ya Sisterhood: A Novel",
+        "author": "Rebecca Wells",
+        "ratings_count": 732
+      },
+      {
+        "isbn": "0312195516",
+        "title": "The Red Tent (Bestselling Backlist)",
+        "author": "Anita Diamant",
+        "ratings_count": 723
+      },
+      {
+        "isbn": "044023722X",
+        "title": "A Painted House",
+        "author": "John Grisham",
+        "ratings_count": 647
+      },
+      {
+        "isbn": "0142001740",
+        "title": "The Secret Life of Bees",
+        "author": "Sue Monk Kidd",
+        "ratings_count": 615
+      },
+      {
+        "isbn": "067976402X",
+        "title": "Snow Falling on Cedars",
+        "author": "David Guterson",
+        "ratings_count": 614
+      },
+      {
+        "isbn": "0671027360",
+        "title": "Angels & Demons",
+        "author": "Dan Brown",
+        "ratings_count": 586
+      },
+      {
+        "isbn": "0446672211",
+        "title": "Where the Heart Is (Oprah's Book Club (Paperback))",
+        "author": "Billie Letts",
+        "ratings_count": 585
+      },
+      {
+        "isbn": "059035342X",
+        "title": "Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback))",
+        "author": "J. K. Rowling",
+        "ratings_count": 571
+      },
+      {
+        "isbn": "0316601950",
+        "title": "The Pilot's Wife : A Novel",
+        "author": "Anita Shreve",
+        "ratings_count": 568
+      },
+      {
+        "isbn": "0375727345",
+        "title": "House of Sand and Fog",
+        "author": "Andre Dubus III",
+        "ratings_count": 552
+      },
+      {
+        "isbn": "044021145X",
+        "title": "The Firm",
+        "author": "John Grisham",
+        "ratings_count": 529
+      },
+      {
+        "isbn": "0452282152",
+        "title": "Girl with a Pearl Earring",
+        "author": "Tracy Chevalier",
+        "ratings_count": 526
+      },
+      {
+        "isbn": "0440214041",
+        "title": "The Pelican Brief",
+        "author": "John Grisham",
+        "ratings_count": 523
+      },
+      {
+        "isbn": "0804106304",
+        "title": "The Joy Luck Club",
+        "author": "Amy Tan",
+        "ratings_count": 519
+      },
+      {
+        "isbn": "0440211727",
+        "title": "A Time to Kill",
+        "author": "JOHN GRISHAM",
+        "ratings_count": 517
+      },
+      {
+        "isbn": "0345337662",
+        "title": "Interview with the Vampire",
+        "author": "Anne Rice",
+        "ratings_count": 506
+      },
+      {
+        "isbn": "0060930535",
+        "title": "The Poisonwood Bible: A Novel",
+        "author": "Barbara Kingsolver",
+        "ratings_count": 494
+      }
+    ],
+    "top_users_by_count": [
+      {
+        "user_id": "11676",
+        "ratings_count": 11144
+      },
+      {
+        "user_id": "198711",
+        "ratings_count": 6456
+      },
+      {
+        "user_id": "153662",
+        "ratings_count": 5814
+      },
+      {
+        "user_id": "98391",
+        "ratings_count": 5779
+      },
+      {
+        "user_id": "35859",
+        "ratings_count": 5646
+      },
+      {
+        "user_id": "212898",
+        "ratings_count": 4290
+      },
+      {
+        "user_id": "278418",
+        "ratings_count": 3996
+      },
+      {
+        "user_id": "76352",
+        "ratings_count": 3329
+      },
+      {
+        "user_id": "110973",
+        "ratings_count": 2971
+      },
+      {
+        "user_id": "235105",
+        "ratings_count": 2943
+      },
+      {
+        "user_id": "16795",
+        "ratings_count": 2920
+      },
+      {
+        "user_id": "230522",
+        "ratings_count": 2857
+      },
+      {
+        "user_id": "234623",
+        "ratings_count": 2594
+      },
+      {
+        "user_id": "204864",
+        "ratings_count": 2461
+      },
+      {
+        "user_id": "36836",
+        "ratings_count": 2459
+      },
+      {
+        "user_id": "245963",
+        "ratings_count": 2395
+      },
+      {
+        "user_id": "185233",
+        "ratings_count": 2382
+      },
+      {
+        "user_id": "55492",
+        "ratings_count": 2361
+      },
+      {
+        "user_id": "52584",
+        "ratings_count": 2340
+      },
+      {
+        "user_id": "232131",
+        "ratings_count": 2329
+      }
+    ]
+  },
+  "sample_top_items": [
+    {
+      "isbn": "0971880107",
+      "title": "Wild Animus",
+      "author": "Rich Shapero",
+      "ratings_count": 2502
+    },
+    {
+      "isbn": "0316666343",
+      "title": "The Lovely Bones: A Novel",
+      "author": "Alice Sebold",
+      "ratings_count": 1295
+    },
+    {
+      "isbn": "0385504209",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "ratings_count": 883
+    },
+    {
+      "isbn": "0060928336",
+      "title": "Divine Secrets of the Ya-Ya Sisterhood: A Novel",
+      "author": "Rebecca Wells",
+      "ratings_count": 732
+    },
+    {
+      "isbn": "0312195516",
+      "title": "The Red Tent (Bestselling Backlist)",
+      "author": "Anita Diamant",
+      "ratings_count": 723
+    }
+  ],
+  "sample_top_users": [
+    {
+      "user_id": "11676",
+      "ratings_count": 11144
+    },
+    {
+      "user_id": "198711",
+      "ratings_count": 6456
+    },
+    {
+      "user_id": "153662",
+      "ratings_count": 5814
+    },
+    {
+      "user_id": "98391",
+      "ratings_count": 5779
+    },
+    {
+      "user_id": "35859",
+      "ratings_count": 5646
+    }
+  ]
+}

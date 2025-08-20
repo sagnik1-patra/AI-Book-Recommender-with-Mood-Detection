@@ -1,0 +1,29 @@
+project: AI Book Recommender with Mood Detection
+artifacts:
+  pkl: C:\Users\sagni\Downloads\AI Book Recommender with Mood Detection\bx_artifacts.pkl
+  h5: C:\Users\sagni\Downloads\AI Book Recommender with Mood Detection\bx_interactions.h5
+  yaml: C:\Users\sagni\Downloads\AI Book Recommender with Mood Detection\bx_config.yaml
+  json: C:\Users\sagni\Downloads\AI Book Recommender with Mood Detection\bx_summary.json
+inputs:
+  preprocessed_csv: C:\Users\sagni\Downloads\archive\Books Data with Category Language
+    and Summary\Preprocessed_data.csv
+  bx_books_csv: C:\Users\sagni\Downloads\archive\Book reviews\Book reviews\BX_Books.csv
+  bx_ratings_csv: C:\Users\sagni\Downloads\archive\Book reviews\Book reviews\BX-Book-Ratings.csv
+  bx_users_csv: C:\Users\sagni\Downloads\archive\Book reviews\Book reviews\BX-Users.csv
+schema:
+  ratings:
+    csr_groups:
+    - ratings
+    - ratings_binary
+    shape:
+    - 92108
+    - 270170
+    rating_scale: 0-10 (0=implicit); binary>=6 considered liked
+  book_meta_alignment: All item arrays are index-aligned with items_isbn
+  user_indexing: Row i in CSR corresponds to users[i]
+build_meta:
+  python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit
+    (AMD64)]
+  platform: Windows-10-10.0.26100-SP0
+  pandas: 1.5.3
+  numpy: 1.26.0

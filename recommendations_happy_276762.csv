@@ -1,0 +1,21 @@
+rank,isbn,title,author,year,category,language,score_cf,score_pop,score_blend
+1,0140067477,The Tao of Pooh,Benjamin Hoff,1983,['Humor'],en,0.0,0.07553956657648087,0.011330935172736645
+2,0446532231,"Dude, Where's My Country?",Michael Moore,2003,['Humor'],en,0.0,0.06994404643774033,0.010491607710719109
+3,002542730X,Politically Correct Bedtime Stories: Modern Tales for Our Life and Times,James Finn Garner,1994,['Humor'],en,0.0,0.0683453232049942,0.010251798667013645
+4,0345391802,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1995,['Humorous stories'],en,0.0,0.05795363709330559,0.008693045936524868
+5,0525947647,Lies and the Lying Liars Who Tell Them: A Fair and Balanced Look at the Right,Al Franken,2003,['Humor'],en,0.0,0.057154275476932526,0.008573141880333424
+6,0316777730,Naked,David Sedaris,1998,['Humor'],en,0.0,0.04956035315990448,0.007434053346514702
+7,0553569155,Seinlanguage,Jerry Seinfeld,1995,['Humor'],en,0.0,0.04396482929587364,0.006594724487513304
+8,0887307876,"The Dilbert Principle: A Cubicle'S-Eye View of Bosses, Meetings, Management Fads & Other Workplace Afflictions",Scott Adams,1996,['Humor'],en,0.0,0.037969622761011124,0.0056954436004161835
+9,0679751602,Mama Makes Up Her Mind: And Other Dangers of Southern Living,Bailey White,1994,['Humor'],en,0.0,0.03117506019771099,0.004676259122788906
+10,0553096060,Sein Language,JERRY SEINFELD,1993,['Humor'],en,0.0,0.028377298265695572,0.004256594926118851
+11,0380973545,Letters from a Nut,Ted L. Nancy,1999,['Humor'],en,0.0,0.027178257703781128,0.004076738841831684
+12,3492045170,Stupid White Men. Eine Abrechnung mit dem Amerika unter George W. Bush,Michael Moore,2003,['American wit and humor'],de,0.0,0.025579536333680153,0.0038369304966181517
+13,0449215296,Family: The Ties That Bind and Gag,Erma Bombeck,1991,['Humor'],en,0.0,0.02478017657995224,0.003717026673257351
+14,0316779490,Naked,David Sedaris,1997,['Humor'],en,0.0,0.023980814963579178,0.003597122384235263
+15,0452283442,The Darwin Awards: Evolution in Action,Wendy Northcutt,2002,['Humor'],en,0.0,0.023581136018037796,0.0035371705889701843
+16,0767902513,A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,1998,['Humor'],en,0.0,0.022382093593478203,0.003357314271852374
+17,0385314744,Rush Limbaugh Is a Big Fat Idiot: And Other Observations,Al Franken,1996,['Humor'],en,0.0,0.019984012469649315,0.002997602103278041
+18,0836218620,Weirdos From Another Planet!,Bill Watterson,1990,['Humor'],en,0.0,0.019184652715921402,0.0028776980470865965
+19,088730866X,The Dilbert Future: Thriving on Stupidity in the 21st Century,Scott Adams,1997,['Humor'],en,0.0,0.01878497190773487,0.0028177457861602306
+20,0786862572,I'm Not Really Here,Tim Allen,1996,['Humor'],en,0.0,0.017985612154006958,0.00269784196279943

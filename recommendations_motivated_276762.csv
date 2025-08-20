@@ -1,0 +1,21 @@
+rank,isbn,title,author,year,category,language,score_cf,score_pop,score_blend
+1,0805063897,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,2002,['Business & Economics'],en,0.0,0.106714628636837,0.01600719429552555
+2,0786881852,Don't Sweat the Small Stuff and It's All Small Stuff : Simple Ways to Keep the Little Things from Taking Over Your Life (Don't Sweat the Small Stuff Series),Richard Carlson,1997,['Self-Help'],en,0.0,0.09112709760665894,0.013669065199792385
+3,155874262X,Chicken Soup for the Soul (Chicken Soup for the Soul),Jack Canfield,1993,['Self-Help'],en,0.0,0.08193445205688477,0.012290168553590775
+4,0515128554,Heart of the Sea (Irish Trilogy),Nora Roberts,2000,['Businessmen'],en,0.0,0.06794564425945282,0.010191846638917923
+5,0399144463,Who Moved My Cheese? An Amazing Way to Deal with Change in Your Work and in Your Life,Spencer Johnson,1998,['Business & Economics'],en,0.0,0.06474819779396057,0.009712230414152145
+6,1878424319,The Four Agreements: A Practical Guide to Personal Freedom,Don Miguel Ruiz,1997,['Self-Help'],en,0.0,0.05315747484564781,0.007973621599376202
+7,0805063889,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,2001,['Business & Economics'],en,0.0,0.027178257703781128,0.004076738841831684
+8,0786884592,"Life Strategies: Doing What Works, Doing What Matters",Phillip C. McGraw,2000,['Self-Help'],en,0.0,0.023980814963579178,0.003597122384235263
+9,0740704818,The Blue Day Book,Bradley Trevor Greive,2000,['Self-Help'],en,0.0,0.02158273383975029,0.0032374102156609297
+10,0060976497,Ten Stupid Things Women Do to Mess Up Their Lives,Laura C. Schlessinger,1995,['Self-Help'],en,0.0,0.02158273383975029,0.0032374102156609297
+11,0446802204,Master of the Game,Sidney Sheldon,1983,['Businesswomen'],en,0.0,0.02118305303156376,0.0031774581875652075
+12,0671723650,How To Win Friends And Influence People,Dale Carnegie,1990,['Business & Economics'],en,0.0,0.02118305303156376,0.0031774581875652075
+13,074322423X,Self Matters : Creating Your Life from the Inside Out,Phillip C. McGraw,2001,['Business & Economics'],en,0.0,0.020783374086022377,0.0031175061594694853
+14,1558747028,Chicken Soup for the College Soul : Inspiring and Humorous Stories for College Students (Chicken Soup for the Soul),Jack Canfield,1999,['Self-Help'],en,0.0,0.020783374086022377,0.0031175061594694853
+15,0877733759,Writing Down the Bones,NATALIE GOLDBERG,1986,['Self-Help'],en,0.0,0.019984012469649315,0.002997602103278041
+16,1878424114,The Seven Spiritual Laws of Success: A Practical Guide to the Fulfillment of Your Dreams (based on Creating Affluence),Deepak Chopra,1995,['Self-Help'],en,0.0,0.017985612154006958,0.00269784196279943
+17,1558743790,A 3rd Serving of Chicken Soup for the Soul (Chicken Soup for the Soul Series (Paper)),Jack Canfield,1996,['Self-Help'],en,0.0,0.017585931345820427,0.002637889701873064
+18,0679447156,Eight Weeks to Optimum Health: A Proven Program for Taking Full Advantage of Your Body's Natural Healing Power (Proven Program for Taking Full Advantage of Your Body's Natural Healing Power),Andrew Weil,1997,['Self-Help'],en,0.0,0.015987209975719452,0.0023980815894901752
+19,0517707918,The 9 Steps to Financial Freedom,Suze Orman,1997,['Business & Economics'],en,0.0,0.015187849290668964,0.002278177533298731
+20,0786866020,Fish! A Remarkable Way to Boost Morale and Improve Results,Stephen C. Lundin,2000,['Business & Economics'],en,0.0,0.01398880872875452,0.0020983214490115643
